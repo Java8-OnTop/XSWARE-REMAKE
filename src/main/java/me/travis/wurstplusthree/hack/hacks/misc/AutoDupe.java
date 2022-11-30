@@ -36,10 +36,10 @@ import java.util.Arrays;
  */
 @Hack.Registration(name = "Auto Dupe", category = Hack.Category.MISC, description = "Dupes for u", priority = HackPriority.Low)
 public final class AutoDupe extends Hack {
-    EnumSetting server = new EnumSetting("Server", "Wurst.Plus", Arrays.asList("Wurst.Plus"), this);
-    EnumSetting modes = new EnumSetting("Mode", "Main", Arrays.asList("Main", "Slave"), this, s -> server.is("Wurst.Plus"));
-    BooleanSetting sendChantMessage = new BooleanSetting("Chat Message", true, this, s -> server.is("Wurst.Plus"));
-    BooleanSetting waitItems = new BooleanSetting("Wait For Items", true, this, s -> server.is("Wurst.Plus"));
+    EnumSetting server = new EnumSetting("Server", "Spartan.tk", Arrays.asList("Spartan.tk"), this);
+    EnumSetting modes = new EnumSetting("Mode", "Main", Arrays.asList("Main", "Slave"), this, s -> server.is("Spartan.tk"));
+    BooleanSetting sendChantMessage = new BooleanSetting("Chat Message", true, this, s -> server.is("Spartan.tk"));
+    BooleanSetting waitItems = new BooleanSetting("Wait For Items", true, this, s -> server.is("Spartan.tk"));
     IntSetting delay = new IntSetting("Dupe Delay", 1, 0, 25, this);
     BooleanSetting rotations = new BooleanSetting("Rotations", false, this);
     EnumSetting swing = new EnumSetting("Swing", "Mainhand", Arrays.asList("Mainhand", "Offhand", "None"), this);
@@ -68,7 +68,7 @@ public final class AutoDupe extends Hack {
     public void onUpdate(){
         if(nullCheck())return;
 
-        if(server.is("Wurst.Plus") && modes.is("Slave")) {
+        if(server.is("Spartan.tk") && modes.is("Slave")) {
             BlockPos pPos = PlayerUtil.getPlayerPos();
             PlayerUtil.FacingDirection dir = PlayerUtil.getFacing();
             switch (dir) {
@@ -97,7 +97,7 @@ public final class AutoDupe extends Hack {
             }
         }
 
-        if(server.is("Wurst.Plus") && modes.is("Main")){
+        if(server.is("Spartan.tk") && modes.is("Main")){
             BlockPos pPos = PlayerUtil.getPlayerPos();
             if(shouldWait){
                 if(waitTicks < this.delay.getValue()){
