@@ -1,14 +1,14 @@
 [
   {
-    "modid": "wurstplusthree",
-    "name": "Wurst+3",
-    "description": "ffs i just wanna do something else",
+    "modid": "xsware",
+    "name": "XSWARE",
+    "description": "noob killing machine",
     "version": "0.0.6",
     "mcversion": "1.12.2",
     "logoFile": "",
     "url": "",
     "updateUrl": "",
-    "authorList": ["trvsf", "Madmegsox1"],
+    "authorList": ["trvsf", "Madmegsox1", "XSS6", "OppaStoppa", "Official_B"],
     "screenshots": [],
     "dependencies": []
   }
