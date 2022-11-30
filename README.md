@@ -1,10 +1,6 @@
 ![logo](src/main/resources/logo.png)
 
-# Wurst+3 
-
-<img src="https://img.shields.io/github/downloads/WurstPlus/wurst-plus-three/total" alt="dwnlds" />
-
-[Discord](https://discord.com/invite/hvnZePKQHx) | [Donate](https://paypal.me/trvsf) | [Download](https://github.com/TrvsF/wurst-plus-three/releases/latest)
+# XSWARE
 
 1.12.2 forge minecraft client
 
@@ -16,13 +12,15 @@ On first run ensure your voices volume is maxed ;)
 
 ## Credits
 
-the usual suspects are here, [phobos](https://github.com/Hqrion/Phobos-1.9.0-BUILDABLE-SRC), [gamesense](https://github.com/IUDevman/gamesense-client), some [xulu](https://github.com/Elementars/Xulu-v1.5.2), and other misc stuff. if you want better credit dm me on discord travis#0001
+the usual suspects are here, [phobos](https://github.com/Hqrion/Phobos-1.9.0-BUILDABLE-SRC), [gamesense](https://github.com/IUDevman/gamesense-client), some [xulu](https://github.com/Elementars/Xulu-v1.5.2)
 
 Also the old gui is using [panel studio](https://github.com/lukflug/PanelStudio/)
 
+Travis, for Wurst Plus Three, [Wurst+3](https://github.com/TrvsF/wurst-plus-three/)
+
 ## Why
 
-Got bored pt. 3, began work as a project for my friends to pvp, turned into this
+Wurst+3 Hasnt been updated in awhile, so I made a sequel. Instead of Wurst+4, I have renamed it after myself, XSS6, naming this XSWARE. It's a remake of my old XSWARE client.
 
 ## How
 
@@ -42,7 +40,7 @@ If you want to compile your own binaries use the following commands
 
 Right shift opens the GUI
 
-'.' is the default prefix, to change this go to .minecraft\Wurstplus3\configs\default\BINDS.txt and change the top line
+'.' is the default prefix, to change this go to .minecraft\XSWARE\configs\default\BINDS.txt and change the top line
 
 For a list of commands [click here](Commands.md)
 
