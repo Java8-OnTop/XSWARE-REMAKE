@@ -96,7 +96,7 @@ public class WurstplusThree {
     public void init(FMLInitializationEvent event) {
         this.load();
         LOGGER.info(MODNAME + " : " + MODVER + " has been loaded");
-        Display.setTitle("Wurst+3 | v" + MODVER);
+        Display.setTitle("XSWARE | v" + MODVER);
     }
 
     public void load() {
