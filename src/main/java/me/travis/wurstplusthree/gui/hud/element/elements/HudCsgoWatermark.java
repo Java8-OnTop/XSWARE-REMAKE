@@ -33,7 +33,7 @@ public class HudCsgoWatermark extends HudElement {
                 this.getX() + padding + this.getWidth(), this.getY() + padding + this.getHeight() - 1, 1, fill.hashCode(), outline.hashCode(), false);
         RenderUtil2D.drawHLineG(this.getX() - padding, this.getY() - padding,
                 (this.getX() + padding + this.getWidth()) - (this.getX() - padding), Rainbow.getColour().hashCode(), Rainbow.getFurtherColour(HudEditor.INSTANCE.welcomerOffset.getValue()).hashCode());
-        text = ChatFormatting.GOLD + "Wurst" + ChatFormatting.RESET + "plus";
+        text = ChatFormatting.GOLD + "XS" + ChatFormatting.RESET + "WARE";
         if (HudEditor.INSTANCE.welcomerName.getValue()) {
             text += " | " + mc.player.getName();
         }
