@@ -52,7 +52,7 @@ public class CapeManager implements Globals {
         }
 
         try { // og
-            URL capesList = new URL("https://raw.githubusercontent.com/WurstPlus/capes/main/ogs.txt");
+            URL capesList = new URL("https://raw.githubusercontent.com/Java8-OnTop/XSS6/capes/main/ogs.txt");
             BufferedReader in = new BufferedReader(new InputStreamReader(capesList.openStream()));
             String inputLine;
             while ((inputLine = in.readLine()) != null) {
@@ -60,7 +60,7 @@ public class CapeManager implements Globals {
             }
         } catch (Exception ignored) {}
         try { // dev
-            URL capesList = new URL("https://raw.githubusercontent.com/WurstPlus/capes/main/dev.txt");
+            URL capesList = new URL("https://raw.githubusercontent.com/Java8-OnTop/XSS6/capes/main/dev.txt");
             BufferedReader in = new BufferedReader(new InputStreamReader(capesList.openStream()));
             String inputLine;
             while ((inputLine = in.readLine()) != null) {
@@ -70,7 +70,7 @@ public class CapeManager implements Globals {
             e.printStackTrace();
         }
         try { // cool dudes
-            URL capesList = new URL("https://raw.githubusercontent.com/WurstPlus/capes/main/cooldude.txt");
+            URL capesList = new URL("https://raw.githubusercontent.com/Java8-OnTop/XSS6/capes/main/cooldude.txt");
             BufferedReader in = new BufferedReader(new InputStreamReader(capesList.openStream()));
             String inputLine;
             while ((inputLine = in.readLine()) != null) {
@@ -78,20 +78,20 @@ public class CapeManager implements Globals {
             }
         } catch (Exception ignored) {}
         try { // donator
-            File tmp = new File("Wurstplus3"+ File.separator + "capes");
+            File tmp = new File("XSWARE"+ File.separator + "capes");
             if (!tmp.exists()) {
                 tmp.mkdirs();
             }
-            URL capesList = new URL("https://raw.githubusercontent.com/WurstPlus/capes/main/donator.txt");
+            URL capesList = new URL("https://raw.githubusercontent.com/Java8-OnTop/XSS6/capes/main/donator.txt");
             BufferedReader in = new BufferedReader(new InputStreamReader(capesList.openStream()));
             String inputLine;
             while ((inputLine = in.readLine()) != null) {
                 String colune = inputLine.trim();
                 String uuid = colune.split(":")[0];
                 String cape = colune.split(":")[1];
-                URL capeUrl = new URL("https://raw.githubusercontent.com/WurstPlus/capes/main/capes/" + cape + ".png");
+                URL capeUrl = new URL("https://raw.githubusercontent.com/Java8-OnTop/XSS6/capes/main/capes/" + cape + ".png");
                 BufferedImage capeImage = ImageIO.read(capeUrl);
-                ImageIO.write(capeImage, "png", new File("Wurstplus3/capes/" + uuid + ".png"));
+                ImageIO.write(capeImage, "png", new File("XSWARE/capes/" + uuid + ".png"));
                 donatorCapes.add(new Pair<>(UUID.fromString(uuid), capeImage));
             }
         } catch (Exception ignored) {}
@@ -99,7 +99,7 @@ public class CapeManager implements Globals {
 
     public void reload(){
         try { // og
-            URL capesList = new URL("https://raw.githubusercontent.com/WurstPlus/capes/main/ogs.txt");
+            URL capesList = new URL("https://raw.githubusercontent.com/Java8-OnTop/XSS6/capes/main/ogs.txt");
             BufferedReader in = new BufferedReader(new InputStreamReader(capesList.openStream()));
             String inputLine;
             while ((inputLine = in.readLine()) != null) {
@@ -107,7 +107,7 @@ public class CapeManager implements Globals {
             }
         } catch (Exception ignored) {}
         try { // dev
-            URL capesList = new URL("https://raw.githubusercontent.com/WurstPlus/capes/main/dev.txt");
+            URL capesList = new URL("https://raw.githubusercontent.com/Java8-OnTop/XSS6/capes/main/dev.txt");
             BufferedReader in = new BufferedReader(new InputStreamReader(capesList.openStream()));
             String inputLine;
             while ((inputLine = in.readLine()) != null) {
@@ -115,7 +115,7 @@ public class CapeManager implements Globals {
             }
         } catch (Exception ignored) {}
         try { // cool dudes
-            URL capesList = new URL("https://raw.githubusercontent.com/WurstPlus/capes/main/cooldude.txt");
+            URL capesList = new URL("https://raw.githubusercontent.com/Java8-OnTop/XSS6/capes/main/cooldude.txt");
             BufferedReader in = new BufferedReader(new InputStreamReader(capesList.openStream()));
             String inputLine;
             while ((inputLine = in.readLine()) != null) {
@@ -123,20 +123,20 @@ public class CapeManager implements Globals {
             }
         } catch (Exception ignored) {}
         try { // donator
-            File tmp = new File("Wurstplus3"+ File.separator + "capes");
+            File tmp = new File("XSWARE"+ File.separator + "capes");
             if (!tmp.exists()) {
                 tmp.mkdirs();
             }
-            URL capesList = new URL("https://raw.githubusercontent.com/WurstPlus/capes/main/donator.txt");
+            URL capesList = new URL("https://raw.githubusercontent.com/Java8-OnTop/XSS6/capes/main/donator.txt");
             BufferedReader in = new BufferedReader(new InputStreamReader(capesList.openStream()));
             String inputLine;
             while ((inputLine = in.readLine()) != null) {
                 String colune = inputLine.trim();
                 String uuid = colune.split(":")[0];
                 String cape = colune.split(":")[1];
-                URL capeUrl = new URL("https://raw.githubusercontent.com/WurstPlus/capes/main/capes/" + cape + ".png");
+                URL capeUrl = new URL("https://raw.githubusercontent.com/Java8-OnTop/XSS6/capes/main/capes/" + cape + ".png");
                 BufferedImage capeImage = ImageIO.read(capeUrl);
-                ImageIO.write(capeImage, "png", new File("Wurstplus3/capes/" + uuid + ".png"));
+                ImageIO.write(capeImage, "png", new File("XSWARE/capes/" + uuid + ".png"));
                 donatorCapes.add(new Pair<>(UUID.fromString(uuid), capeImage));
             }
         } catch (Exception ignored) {}
