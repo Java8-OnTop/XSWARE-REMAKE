@@ -17,7 +17,7 @@ public class ClientMessage implements Globals {
 
     private static final String opener() {
         if (mc.player.getName().equalsIgnoreCase("wallhacks_"))
-            return ChatFormatting.DARK_BLUE + "[" + ChatFormatting.BLUE + "wurst+" + ChatFormatting.DARK_BLUE + "] " + ChatFormatting.RESET;
+            return ChatFormatting.DARK_BLUE + "[" + ChatFormatting.BLUE + "XSWARE" + ChatFormatting.DARK_BLUE + "] " + ChatFormatting.RESET;
         return ChatFormatting.GOLD + WurstplusThree.MODNAME + ChatFormatting.WHITE + " : " + ChatFormatting.RESET;
     }
 
