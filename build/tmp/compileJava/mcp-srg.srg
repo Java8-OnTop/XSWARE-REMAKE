@@ -1,0 +1,55 @@
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/posX me/travis/wurstplusthree/mixin/mixins/MixinEntity/field_70165_t
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/posY me/travis/wurstplusthree/mixin/mixins/MixinEntity/field_70163_u
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/posZ me/travis/wurstplusthree/mixin/mixins/MixinEntity/field_70161_v
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/motionX me/travis/wurstplusthree/mixin/mixins/MixinEntity/field_70159_w
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/motionY me/travis/wurstplusthree/mixin/mixins/MixinEntity/field_70181_x
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/motionZ me/travis/wurstplusthree/mixin/mixins/MixinEntity/field_70179_y
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/rotationYaw me/travis/wurstplusthree/mixin/mixins/MixinEntity/field_70177_z
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/rotationPitch me/travis/wurstplusthree/mixin/mixins/MixinEntity/field_70125_A
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/onGround me/travis/wurstplusthree/mixin/mixins/MixinEntity/field_70122_E
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/world me/travis/wurstplusthree/mixin/mixins/MixinEntity/field_70170_p
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/pistonDeltas me/travis/wurstplusthree/mixin/mixins/MixinEntity/field_191505_aI
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/pistonDeltasGameTime me/travis/wurstplusthree/mixin/mixins/MixinEntity/field_191506_aJ
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/isInWeb me/travis/wurstplusthree/mixin/mixins/MixinEntity/field_70134_J
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/stepHeight me/travis/wurstplusthree/mixin/mixins/MixinEntity/field_70138_W
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/collidedHorizontally me/travis/wurstplusthree/mixin/mixins/MixinEntity/field_70123_F
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/collidedVertically me/travis/wurstplusthree/mixin/mixins/MixinEntity/field_70124_G
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/collided me/travis/wurstplusthree/mixin/mixins/MixinEntity/field_70132_H
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/distanceWalkedModified me/travis/wurstplusthree/mixin/mixins/MixinEntity/field_70140_Q
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/distanceWalkedOnStepModified me/travis/wurstplusthree/mixin/mixins/MixinEntity/field_82151_R
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/fire me/travis/wurstplusthree/mixin/mixins/MixinEntity/field_190534_ay
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/nextStepDistance me/travis/wurstplusthree/mixin/mixins/MixinEntity/field_70150_b
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/nextFlap me/travis/wurstplusthree/mixin/mixins/MixinEntity/field_191959_ay
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/rand me/travis/wurstplusthree/mixin/mixins/MixinEntity/field_70146_Z
+FD: me/travis/wurstplusthree/mixin/mixins/MixinItemStack/itemDamage me/travis/wurstplusthree/mixin/mixins/MixinItemStack/field_77991_e
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntityRenderer/itemActivationItem me/travis/wurstplusthree/mixin/mixins/MixinEntityRenderer/field_190566_ab
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntityRenderer/mc me/travis/wurstplusthree/mixin/mixins/MixinEntityRenderer/field_78531_r
+FD: me/travis/wurstplusthree/mixin/mixins/MixinRenderEntityItem/itemRenderer me/travis/wurstplusthree/mixin/mixins/MixinRenderEntityItem/field_177080_a
+FD: me/travis/wurstplusthree/mixin/mixins/MixinRenderEntityItem/random me/travis/wurstplusthree/mixin/mixins/MixinRenderEntityItem/field_177079_e
+FD: me/travis/wurstplusthree/mixin/mixins/MixinRenderer/renderOutlines me/travis/wurstplusthree/mixin/mixins/MixinRenderer/field_188301_f
+FD: me/travis/wurstplusthree/mixin/mixins/MixinRenderer/renderManager me/travis/wurstplusthree/mixin/mixins/MixinRenderer/field_76990_c
+FD: me/travis/wurstplusthree/mixin/mixins/MixinGuiNewChat/drawnChatLines me/travis/wurstplusthree/mixin/mixins/MixinGuiNewChat/field_146253_i
+FD: me/travis/wurstplusthree/mixin/mixins/MixinRenderEnderCrystal/modelEnderCrystalNoBase me/travis/wurstplusthree/mixin/mixins/MixinRenderEnderCrystal/field_188316_g
+FD: me/travis/wurstplusthree/mixin/mixins/MixinRenderEnderCrystal/modelEnderCrystal me/travis/wurstplusthree/mixin/mixins/MixinRenderEnderCrystal/field_76995_b
+FD: me/travis/wurstplusthree/mixin/mixins/MixinRenderLivingBase/mainModel me/travis/wurstplusthree/mixin/mixins/MixinRenderLivingBase/field_77045_g
+FD: me/travis/wurstplusthree/mixin/mixins/MixinKeyBinding/pressed me/travis/wurstplusthree/mixin/mixins/MixinKeyBinding/field_74513_e
+MD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/isSprinting ()Z me/travis/wurstplusthree/mixin/mixins/MixinEntity/func_70051_ag ()Z
+MD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/isRiding ()Z me/travis/wurstplusthree/mixin/mixins/MixinEntity/func_184218_aH ()Z
+MD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/isSneaking ()Z me/travis/wurstplusthree/mixin/mixins/MixinEntity/func_70093_af ()Z
+MD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/setEntityBoundingBox (Lnet/minecraft/util/math/AxisAlignedBB;)V me/travis/wurstplusthree/mixin/mixins/MixinEntity/func_174826_a (Lnet/minecraft/util/math/AxisAlignedBB;)V
+MD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/getEntityBoundingBox ()Lnet/minecraft/util/math/AxisAlignedBB; me/travis/wurstplusthree/mixin/mixins/MixinEntity/func_174813_aQ ()Lnet/minecraft/util/math/AxisAlignedBB;
+MD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/getMaxInPortalTime ()I me/travis/wurstplusthree/mixin/mixins/MixinEntity/func_82145_z ()I
+MD: me/travis/wurstplusthree/mixin/mixins/MixinRenderPlayer/getEntityTexture (Lnet/minecraft/client/entity/AbstractClientPlayer;)Lnet/minecraft/util/ResourceLocation; me/travis/wurstplusthree/mixin/mixins/MixinRenderPlayer/func_110775_a (Lnet/minecraft/client/entity/AbstractClientPlayer;)Lnet/minecraft/util/ResourceLocation;
+MD: me/travis/wurstplusthree/mixin/mixins/MixinFontRenderer/renderString (Ljava/lang/String;FFIZ)I me/travis/wurstplusthree/mixin/mixins/MixinFontRenderer/func_180455_b (Ljava/lang/String;FFIZ)I
+MD: me/travis/wurstplusthree/mixin/mixins/MixinFontRenderer/renderStringAtPos (Ljava/lang/String;Z)V me/travis/wurstplusthree/mixin/mixins/MixinFontRenderer/func_78255_a (Ljava/lang/String;Z)V
+MD: me/travis/wurstplusthree/mixin/mixins/MixinEntityRenderer/getMouseOver (F)V me/travis/wurstplusthree/mixin/mixins/MixinEntityRenderer/func_78473_a (F)V
+MD: me/travis/wurstplusthree/mixin/mixins/MixinAbstractClientPlayer/getPlayerInfo ()Lnet/minecraft/client/network/NetworkPlayerInfo; me/travis/wurstplusthree/mixin/mixins/MixinAbstractClientPlayer/func_175155_b ()Lnet/minecraft/client/network/NetworkPlayerInfo;
+MD: me/travis/wurstplusthree/mixin/mixins/MixinMinecraft/displayGuiScreen (Lnet/minecraft/client/gui/GuiScreen;)V me/travis/wurstplusthree/mixin/mixins/MixinMinecraft/func_147108_a (Lnet/minecraft/client/gui/GuiScreen;)V
+MD: me/travis/wurstplusthree/mixin/mixins/MixinRenderEntityItem/getModelCount (Lnet/minecraft/item/ItemStack;)I me/travis/wurstplusthree/mixin/mixins/MixinRenderEntityItem/func_177078_a (Lnet/minecraft/item/ItemStack;)I
+MD: me/travis/wurstplusthree/mixin/mixins/MixinRenderEntityItem/getEntityTexture (Lnet/minecraft/entity/item/EntityItem;)Lnet/minecraft/util/ResourceLocation; me/travis/wurstplusthree/mixin/mixins/MixinRenderEntityItem/func_110775_a (Lnet/minecraft/entity/item/EntityItem;)Lnet/minecraft/util/ResourceLocation;
+MD: me/travis/wurstplusthree/mixin/mixins/MixinRenderEntityItem/transformModelCount (Lnet/minecraft/entity/item/EntityItem;DDDFLnet/minecraft/client/renderer/block/model/IBakedModel;)I me/travis/wurstplusthree/mixin/mixins/MixinRenderEntityItem/func_177077_a (Lnet/minecraft/entity/item/EntityItem;DDDFLnet/minecraft/client/renderer/block/model/IBakedModel;)I
+MD: me/travis/wurstplusthree/mixin/mixins/MixinRenderEntityItem/doRender (Lnet/minecraft/entity/item/EntityItem;DDDFF)V me/travis/wurstplusthree/mixin/mixins/MixinRenderEntityItem/func_76986_a (Lnet/minecraft/entity/item/EntityItem;DDDFF)V
+MD: me/travis/wurstplusthree/mixin/mixins/MixinRenderer/bindEntityTexture (Lnet/minecraft/entity/Entity;)Z me/travis/wurstplusthree/mixin/mixins/MixinRenderer/func_180548_c (Lnet/minecraft/entity/Entity;)Z
+MD: me/travis/wurstplusthree/mixin/mixins/MixinRenderer/getTeamColor (Lnet/minecraft/entity/Entity;)I me/travis/wurstplusthree/mixin/mixins/MixinRenderer/func_188298_c (Lnet/minecraft/entity/Entity;)I
+MD: me/travis/wurstplusthree/mixin/mixins/MixinBlock/getBlockHardness (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;)F me/travis/wurstplusthree/mixin/mixins/MixinBlock/func_176195_g (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;)F
+MD: me/travis/wurstplusthree/mixin/mixins/MixinGuiTextField/getText ()Ljava/lang/String; me/travis/wurstplusthree/mixin/mixins/MixinGuiTextField/func_146179_b ()Ljava/lang/String;

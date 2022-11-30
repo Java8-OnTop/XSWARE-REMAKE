@@ -1,0 +1,55 @@
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/posX me/travis/wurstplusthree/mixin/mixins/MixinEntity/p
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/posY me/travis/wurstplusthree/mixin/mixins/MixinEntity/q
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/posZ me/travis/wurstplusthree/mixin/mixins/MixinEntity/r
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/motionX me/travis/wurstplusthree/mixin/mixins/MixinEntity/s
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/motionY me/travis/wurstplusthree/mixin/mixins/MixinEntity/t
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/motionZ me/travis/wurstplusthree/mixin/mixins/MixinEntity/u
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/rotationYaw me/travis/wurstplusthree/mixin/mixins/MixinEntity/v
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/rotationPitch me/travis/wurstplusthree/mixin/mixins/MixinEntity/w
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/onGround me/travis/wurstplusthree/mixin/mixins/MixinEntity/z
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/world me/travis/wurstplusthree/mixin/mixins/MixinEntity/l
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/pistonDeltas me/travis/wurstplusthree/mixin/mixins/MixinEntity/aJ
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/pistonDeltasGameTime me/travis/wurstplusthree/mixin/mixins/MixinEntity/aK
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/isInWeb me/travis/wurstplusthree/mixin/mixins/MixinEntity/E
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/stepHeight me/travis/wurstplusthree/mixin/mixins/MixinEntity/P
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/collidedHorizontally me/travis/wurstplusthree/mixin/mixins/MixinEntity/A
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/collidedVertically me/travis/wurstplusthree/mixin/mixins/MixinEntity/B
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/collided me/travis/wurstplusthree/mixin/mixins/MixinEntity/C
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/distanceWalkedModified me/travis/wurstplusthree/mixin/mixins/MixinEntity/J
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/distanceWalkedOnStepModified me/travis/wurstplusthree/mixin/mixins/MixinEntity/K
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/fire me/travis/wurstplusthree/mixin/mixins/MixinEntity/az
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/nextStepDistance me/travis/wurstplusthree/mixin/mixins/MixinEntity/ax
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/nextFlap me/travis/wurstplusthree/mixin/mixins/MixinEntity/ay
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/rand me/travis/wurstplusthree/mixin/mixins/MixinEntity/S
+FD: me/travis/wurstplusthree/mixin/mixins/MixinItemStack/itemDamage me/travis/wurstplusthree/mixin/mixins/MixinItemStack/h
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntityRenderer/itemActivationItem me/travis/wurstplusthree/mixin/mixins/MixinEntityRenderer/ab
+FD: me/travis/wurstplusthree/mixin/mixins/MixinEntityRenderer/mc me/travis/wurstplusthree/mixin/mixins/MixinEntityRenderer/h
+FD: me/travis/wurstplusthree/mixin/mixins/MixinRenderEntityItem/itemRenderer me/travis/wurstplusthree/mixin/mixins/MixinRenderEntityItem/a
+FD: me/travis/wurstplusthree/mixin/mixins/MixinRenderEntityItem/random me/travis/wurstplusthree/mixin/mixins/MixinRenderEntityItem/f
+FD: me/travis/wurstplusthree/mixin/mixins/MixinRenderer/renderOutlines me/travis/wurstplusthree/mixin/mixins/MixinRenderer/e
+FD: me/travis/wurstplusthree/mixin/mixins/MixinRenderer/renderManager me/travis/wurstplusthree/mixin/mixins/MixinRenderer/b
+FD: me/travis/wurstplusthree/mixin/mixins/MixinGuiNewChat/drawnChatLines me/travis/wurstplusthree/mixin/mixins/MixinGuiNewChat/i
+FD: me/travis/wurstplusthree/mixin/mixins/MixinRenderEnderCrystal/modelEnderCrystalNoBase me/travis/wurstplusthree/mixin/mixins/MixinRenderEnderCrystal/g
+FD: me/travis/wurstplusthree/mixin/mixins/MixinRenderEnderCrystal/modelEnderCrystal me/travis/wurstplusthree/mixin/mixins/MixinRenderEnderCrystal/f
+FD: me/travis/wurstplusthree/mixin/mixins/MixinRenderLivingBase/mainModel me/travis/wurstplusthree/mixin/mixins/MixinRenderLivingBase/f
+FD: me/travis/wurstplusthree/mixin/mixins/MixinKeyBinding/pressed me/travis/wurstplusthree/mixin/mixins/MixinKeyBinding/i
+MD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/isSprinting ()Z me/travis/wurstplusthree/mixin/mixins/MixinEntity/aV ()Z
+MD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/isRiding ()Z me/travis/wurstplusthree/mixin/mixins/MixinEntity/aS ()Z
+MD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/isSneaking ()Z me/travis/wurstplusthree/mixin/mixins/MixinEntity/aU ()Z
+MD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/setEntityBoundingBox (Lnet/minecraft/util/math/AxisAlignedBB;)V me/travis/wurstplusthree/mixin/mixins/MixinEntity/a (Lbhb;)V
+MD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/getEntityBoundingBox ()Lnet/minecraft/util/math/AxisAlignedBB; me/travis/wurstplusthree/mixin/mixins/MixinEntity/bw ()Lbhb;
+MD: me/travis/wurstplusthree/mixin/mixins/MixinEntity/getMaxInPortalTime ()I me/travis/wurstplusthree/mixin/mixins/MixinEntity/Z ()I
+MD: me/travis/wurstplusthree/mixin/mixins/MixinRenderPlayer/getEntityTexture (Lnet/minecraft/client/entity/AbstractClientPlayer;)Lnet/minecraft/util/ResourceLocation; me/travis/wurstplusthree/mixin/mixins/MixinRenderPlayer/a (Lbua;)Lnf;
+MD: me/travis/wurstplusthree/mixin/mixins/MixinFontRenderer/renderString (Ljava/lang/String;FFIZ)I me/travis/wurstplusthree/mixin/mixins/MixinFontRenderer/b (Ljava/lang/String;FFIZ)I
+MD: me/travis/wurstplusthree/mixin/mixins/MixinFontRenderer/renderStringAtPos (Ljava/lang/String;Z)V me/travis/wurstplusthree/mixin/mixins/MixinFontRenderer/a (Ljava/lang/String;Z)V
+MD: me/travis/wurstplusthree/mixin/mixins/MixinEntityRenderer/getMouseOver (F)V me/travis/wurstplusthree/mixin/mixins/MixinEntityRenderer/a (F)V
+MD: me/travis/wurstplusthree/mixin/mixins/MixinAbstractClientPlayer/getPlayerInfo ()Lnet/minecraft/client/network/NetworkPlayerInfo; me/travis/wurstplusthree/mixin/mixins/MixinAbstractClientPlayer/b ()Lbsc;
+MD: me/travis/wurstplusthree/mixin/mixins/MixinMinecraft/displayGuiScreen (Lnet/minecraft/client/gui/GuiScreen;)V me/travis/wurstplusthree/mixin/mixins/MixinMinecraft/a (Lblk;)V
+MD: me/travis/wurstplusthree/mixin/mixins/MixinRenderEntityItem/getModelCount (Lnet/minecraft/item/ItemStack;)I me/travis/wurstplusthree/mixin/mixins/MixinRenderEntityItem/a (Laip;)I
+MD: me/travis/wurstplusthree/mixin/mixins/MixinRenderEntityItem/getEntityTexture (Lnet/minecraft/entity/item/EntityItem;)Lnet/minecraft/util/ResourceLocation; me/travis/wurstplusthree/mixin/mixins/MixinRenderEntityItem/a (Lacl;)Lnf;
+MD: me/travis/wurstplusthree/mixin/mixins/MixinRenderEntityItem/transformModelCount (Lnet/minecraft/entity/item/EntityItem;DDDFLnet/minecraft/client/renderer/block/model/IBakedModel;)I me/travis/wurstplusthree/mixin/mixins/MixinRenderEntityItem/a (Lacl;DDDFLcfy;)I
+MD: me/travis/wurstplusthree/mixin/mixins/MixinRenderEntityItem/doRender (Lnet/minecraft/entity/item/EntityItem;DDDFF)V me/travis/wurstplusthree/mixin/mixins/MixinRenderEntityItem/a (Lacl;DDDFF)V
+MD: me/travis/wurstplusthree/mixin/mixins/MixinRenderer/bindEntityTexture (Lnet/minecraft/entity/Entity;)Z me/travis/wurstplusthree/mixin/mixins/MixinRenderer/d (Lvg;)Z
+MD: me/travis/wurstplusthree/mixin/mixins/MixinRenderer/getTeamColor (Lnet/minecraft/entity/Entity;)I me/travis/wurstplusthree/mixin/mixins/MixinRenderer/c (Lvg;)I
+MD: me/travis/wurstplusthree/mixin/mixins/MixinBlock/getBlockHardness (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;)F me/travis/wurstplusthree/mixin/mixins/MixinBlock/a (Lawt;Lamu;Let;)F
+MD: me/travis/wurstplusthree/mixin/mixins/MixinGuiTextField/getText ()Ljava/lang/String; me/travis/wurstplusthree/mixin/mixins/MixinGuiTextField/b ()Ljava/lang/String;
