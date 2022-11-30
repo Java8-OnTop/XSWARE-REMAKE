@@ -31,13 +31,13 @@ import java.util.jar.Attributes;
 import java.util.jar.Manifest;
 
 /**
- * @author travis - began work on 8th april 2021
+ * @author travis, XSS6 - began work on 8th april 2021, and continued in november 2022 :)
  */
 @Mod(modid = WurstplusThree.MODID, name = WurstplusThree.MODNAME, version = WurstplusThree.MODVER)
 public class WurstplusThree {
 
-    public static final String MODID = "wurstplusthree";
-    public static final String MODNAME = "Wurst+3";
+    public static final String MODID = "xsware";
+    public static final String MODNAME = "XSWARE";
     public static final String MODVER = "0.0.6";
 
     public static final Logger LOGGER = LogManager.getLogger(MODID);
