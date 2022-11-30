@@ -35,7 +35,7 @@ public class HelpManager implements Globals {
             "The quiver module shoots arrow with a positive effect at you",
             "By adding the baritone jar to your mods folder extra baritone modules will show up",
             "If you experience frequent crashes you can send .minecraft/logs/latest.txt to one of the devs",
-            "Configs for wurst + 3 can be found in the official discord discord.gg.wurst",
+            "Configs for xsware can be found nowhere",
             "Donators receive a animated cape",
             "Right clicking a bind setting will make it a hold bind"
     };
